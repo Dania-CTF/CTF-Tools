@@ -1,2 +1,2 @@
-# DCTF-Tools
-This folder contains the tools developed or modified by the Dania CTF team. Before you make a pull request, make sure to read the readme file inside the folder.
+# CTF-Tools
+This repository contains CTF tools made or modified by the Dania CTF Team
